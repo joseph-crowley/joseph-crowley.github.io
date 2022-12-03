@@ -11,12 +11,18 @@ redirect_from:
 
 Education
 ======
-* AS-T in Physics, Santa Rosa Junior College, 2018
-* BS in Physics, California Polytechnic State University, San Luis Obispo, 2020
-* PhD in Physics, University of California, Santa Barbara, 2025 (expected)
+* PhD, Physics - University of California, Santa Barbara, 2025 (expected)
+* BS, Physics - California Polytechnic State University, San Luis Obispo, 2020 
+* AS-T, Physics - Santa Rosa Junior College, 2018
 
 Work experience
 ======
+* Summer 2021 - Present: Graduate Student Researcher
+  * University of California, Santa Barbara
+  * Duties: physics analysis, data acquisition, software development
+  * Experiments: CMS, MilliQan
+  * Supervisor: Claudio Campagnari
+
 * Fall 2020 - Winter 2022: Teaching Assistant
   * University of California, Santa Barbara
   * Duties included: Lab, Office Hours, Grading

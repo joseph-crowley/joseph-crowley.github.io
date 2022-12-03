@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Get to know Joe
+title: "Get to know Joe"
 excerpt: "Alongside our powerful biological instincts stands an equally powerful urge to become who we could be and to connect to something beyond the personal. - C.G. Jung"
 author_profile: true
 redirect_from: 

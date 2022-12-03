@@ -1,5 +1,5 @@
 ---
-title: "
+title: "Analog Electronics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-fall-Physics-127AL

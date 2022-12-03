@@ -11,30 +11,47 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* AS-T in Physics, Santa Rosa Junior College, 2018
+* BS in Physics, California Polytechnic State University, San Luis Obispo, 2020
+* PhD in Physics, University of California, Santa Barbara, 2025 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2020 - Winter 2022: Teaching Assistant
+  * University of California, Santa Barbara
+  * Duties included: Lab, Office Hours, Grading
+  * Courses: analog electronics, digital electronics (FPGA), advanced quantum & nuclear physics lab, scientific computing
+  * Supervisor: Harry Nelson, Ben Mazin, Xiao Luo, Everett Lipman
   
+* Fall 2018 - Summer 2020: Undergraduate Research Assistant
+  * Cal Poly
+  * Duties included: FPGA, simulation, data analysis
+  * Supervisor: Stephanie Wissel
+
+* Fall 2018 - Summer 2020: Undergraduate Research Assistant
+  * Cal Poly
+  * Duties included: simulation, data analysis, electronics testing 
+  * Supervisor: Jennifer Klay
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Hardware
+  * analog electronics
+  * digital electronics
+  * FPGA
+  * Raspberry Pi
+  * Arduino
+  * 3D printing
+* Programming
+  * C++
+  * python
+  * Mathematica
+  * Verilog
+* Language
+  * Greek (intermediate)
+  * German (intermediate)
+  * French (beginner)
+  * Spanish (beginner)
 
 Publications
 ======
@@ -56,4 +73,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Maintain CSC Validation codebase for data quality monitoring in the [CMS Muon System](https://cms.cern/detector/detecting-muons)

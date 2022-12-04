@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "UCSB HEP"
+title                    : "<img src=\"/images/ucsb_hep_logo.jpg\" alt=\"UCSB High Energy Physics Logo\">"
 title_separator          : "🦑" # 🏔⛺🛩
 name                     : &name "Joe Crowley"
 description              : &description "Joe has a passion for nature, science, music, and travel. He is currently pursuing a PhD in Experimental Particle Physics at UC Santa Barbara advised by Claudio Campagnari."

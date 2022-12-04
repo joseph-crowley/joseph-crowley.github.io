@@ -14,11 +14,11 @@ A data-driven personal website
 ======
 I will be adding plots, code, data, and notes for my work to the website; lots to come. 
 
-Some reflections about content I put here
+Reflections about content I put here
 ======
-1. some projects
-2. some pictures
-3. some philosophizing
+1. projects
+2. pictures
+3. philosophizing
 
 Hobbies
 ------

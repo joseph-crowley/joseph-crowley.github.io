@@ -1,7 +1,7 @@
 ---
 title: "tttt background estimation"
 collection: talks
-type: "Talk"
+type: "Presentation"
 permalink: /talks/tttt-bkg-est-2022-08-30
 venue: "Claudio's Office"
 date: 2022-08-30

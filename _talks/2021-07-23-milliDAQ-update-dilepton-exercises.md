@@ -1,7 +1,7 @@
 ---
 title: "dilepton exercises and milliDAQ hardware"
 collection: talks
-type: "Talk"
+type: "Presentation"
 permalink: /talks/dilepton-milliDAQ-update-2021-07-23
 venue: "Zoom"
 date: 2021-07-23

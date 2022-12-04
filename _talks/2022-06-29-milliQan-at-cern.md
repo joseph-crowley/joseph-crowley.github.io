@@ -1,7 +1,7 @@
 ---
 title: "ucsb @ cern milliQan update"
 collection: talks
-type: "Talk"
+type: "Presentation"
 permalink: /talks/ucsb-at-cern-update-2022-06-29
 venue: "Zoom"
 date: 2022-06-29

@@ -1,7 +1,7 @@
 ---
 title: "covid-19 status and protection"
 collection: talks
-type: "Talk"
+type: "Presentation"
 permalink: /talks/sars-cov-2-update-2020-03-29
 venue: "YouTube"
 date: 2020-03-29

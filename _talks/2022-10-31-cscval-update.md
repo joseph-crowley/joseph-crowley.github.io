@@ -1,7 +1,7 @@
 ---
 title: "cscval update"
 collection: talks
-type: "Talk"
+type: "Presentation"
 permalink: /talks/cscval-update
 venue: "Claudio's Office"
 date: 2022-10-31

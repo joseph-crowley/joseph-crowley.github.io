@@ -8,17 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Joe is a grad student at UCSB studying standard model processes involving heavy quarks. Our group studies SM and BSM physics, we aim to discover new physics using the Large Hadron Collider at [CERN](https://home.cern/)
+Joe is a grad student at UCSB studying standard model processes involving heavy quarks. The [CMS group at UCSB](http://hep.ucsb.edu/people/claudio/) studies Standard Model (SM) processes and BSM physics, searching for new physics using the Large Hadron Collider at [CERN](https://home.cern/)
 
 A data-driven personal website
 ======
-I will be adding plots, code, data, and notes for my work to the website; lots to come. 
+plots, code, data, and notes for my work will be added to the website; lots to come. 
 
 Reflections about content I put here
 ======
 1. projects
 2. pictures
-3. philosophizing
+3. philosophy
 
 Hobbies
 ------

@@ -6,7 +6,9 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
+            <!-- commenting out this line to see if I can make an image appear -->
+            <!-- <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li> -->
+          <a href="{{ base_path }}/"><img src="/images/ucsb_hep_logo.jpg" alt="UCSB High Energy Physics Logo"></a>
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}

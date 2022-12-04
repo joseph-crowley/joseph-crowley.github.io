@@ -3,7 +3,7 @@ title: "cscval update"
 collection: talks
 type: "Talk"
 permalink: /talks/cscval-update
-venue: "Zoom"
+venue: "Claudio's Office"
 date: 2022-10-31
 location: "Santa Barbara, California"
 ---

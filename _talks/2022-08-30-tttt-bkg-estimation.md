@@ -3,7 +3,7 @@ title: "tttt background estimation"
 collection: talks
 type: "Talk"
 permalink: /talks/tttt-bkg-est-2022-08-30
-venue: "Zoom"
+venue: "Claudio's Office"
 date: 2022-08-30
 location: "Santa Barbara, California"
 ---

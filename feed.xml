@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://media.rss.com/style.xsl"?>
+<rss xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="en" version="2.0">
+  <channel>
+    <title><![CDATA[Joe Crowley Podcast]]></title>
+    <link>https://rss.com/podcasts/joecrowley</link>
+    <atom:link href="https://media.rss.com/joecrowley/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link rel="hub" href="https://hub.livewire.io/"/>
+    <description><![CDATA[This podcast explores topics in science and technology, music, and more. ]]></description>
+    <generator>RSS.com v2.3.3</generator>
+    <lastBuildDate>Sun, 04 Dec 2022 03:08:48 GMT</lastBuildDate>
+    <language>en</language>
+    <copyright><![CDATA[Joe Crowley 2022]]></copyright>
+    <itunes:image href="https://assets.rss.com/images/no-cover-1400.jpg"/>
+    <image>
+      <url>https://assets.rss.com/images/no-cover-1400.jpg</url>
+      <title>Joe Crowley Podcast</title>
+      <link>https://rss.com/podcasts/joecrowley</link>
+    </image>
+    <itunes:summary><![CDATA[This podcast explores topics in science and technology, music, and more. ]]></itunes:summary>
+    <podcast:locked owner="crowley@ucsb.edu">yes</podcast:locked>
+    <itunes:author>Joe Crowley</itunes:author>
+    <itunes:owner>
+      <itunes:name>Joe Crowley</itunes:name>
+      <itunes:email>crowley@ucsb.edu</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+  </channel>
+</rss>

@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* PhD, Physics - University of California, Santa Barbara, 2025 (expected)
-* BS, Physics - California Polytechnic State University, San Luis Obispo, 2020 
-* AS-T, Physics - Santa Rosa Junior College, 2018
+* PhD, Physics - University of California, Santa Barbara, 2025 (expected)  
+* BS, Physics - California Polytechnic State University, San Luis Obispo, 2020    
+* AS-T, Physics - Santa Rosa Junior College, 2018  
 
 Work experience
 ======
@@ -21,23 +21,23 @@ Work experience
   * University of California, Santa Barbara
   * Duties: physics analysis, data acquisition, software development
   * Experiments: CMS, MilliQan
-  * Supervisor: Claudio Campagnari
+  * Supervisor: Claudio Campagnari  
 
 * Fall 2020 - Winter 2022: Teaching Assistant
   * University of California, Santa Barbara
   * Duties included: Lab, Office Hours, Grading
   * Courses: analog electronics, digital electronics (FPGA), advanced quantum & nuclear physics lab, scientific computing
-  * Supervisor: Harry Nelson, Ben Mazin, Xiao Luo, Everett Lipman
+  * Supervisor: Harry Nelson, Ben Mazin, Xiao Luo, Everett Lipman  
   
 * Fall 2018 - Summer 2020: Undergraduate Research Assistant
   * Cal Poly
   * Duties included: FPGA, simulation, data analysis
-  * Supervisor: Stephanie Wissel
+  * Supervisor: Stephanie Wissel  
 
 * Fall 2018 - Summer 2020: Undergraduate Research Assistant
   * Cal Poly
   * Duties included: simulation, data analysis, electronics testing 
-  * Supervisor: Jennifer Klay
+  * Supervisor: Jennifer Klay  
 
 Skills
 ======
@@ -47,12 +47,12 @@ Skills
   * FPGA
   * Raspberry Pi
   * Arduino
-  * 3D printing
+  * 3D printing  
 * Programming
   * C++
   * python
   * Mathematica
-  * Verilog
+  * Verilog  
 * Language
   * Greek (intermediate)
   * German (intermediate)

@@ -28,3 +28,12 @@ Technical Projects
 ------
 ![night_flying](/images/night_flying.jpg)
 
+Emojis
+------
+* 🛰️
+* ⚙️
+* 📙
+* 🆒
+* 💭
+* 🤓
+

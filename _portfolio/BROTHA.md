@@ -1,5 +1,5 @@
 ---
-title: "BROTHA - self-balancing robot.
+title: "BROTHA - self-balancing robot."
 excerpt: "PID controlled wheeled robot<br/><img src='/images/brotha.png'>"
 collection: portfolio
 ---

@@ -1,6 +1,6 @@
 ---
 title: "tttt"
-excerpt: "Four top analysis<br/><img style='width=50%' src='/images/tttt_diagrams.png'><br/>"
+excerpt: "Four top analysis<br/><img style='width:50%' src='/images/tttt_diagrams.png'><br/>"
 collection: portfolio
 ---
 

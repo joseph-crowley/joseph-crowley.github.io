@@ -8,7 +8,12 @@ date: 2021-01-02
 location: "Santa Barbara, California"
 ---
 
-This was a challenge due, of course, to the pandemic. I worked from my parents house in sonoma county, remoting in via zoom to teach an electronics lab course for upper division UCSB physics students. This course taught ideas in computer science using python, and emphasized a practical skillset in bash. Topics included optimization, numerical simulation, data visualization, parallel computing, postscript, raster graphics. 
+Topics in computer science using python, and emphasized a practical skillset in bash. Topics included optimization, numerical simulation, data visualization, parallel computing, postscript, raster graphics, and IO using the Raspberry Pi.
+
+A Unique Learning Experience
+======
+
+This was a challenge due, of course, to the pandemic. I worked from my parents house in sonoma county, remoting in via zoom to teach a scientific computing lab course for upper division UCSB physics students. 
 
 
 Textbook and Resources

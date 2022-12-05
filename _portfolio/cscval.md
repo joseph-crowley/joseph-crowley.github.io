@@ -1,6 +1,6 @@
 ---
 title: "cscval"
-excerpt: "CSC Validation<br/><img src='/images/cscval.png'>"
+excerpt: "CSC Validation<br/><img style='width=50%' src='/images/cscval.png'><br/>"
 collection: portfolio
 ---
 

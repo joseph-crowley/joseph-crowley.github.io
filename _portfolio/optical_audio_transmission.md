@@ -1,6 +1,6 @@
 ---
 title: "transmit audio at c"
-excerpt: "Using LEDs to transmit and receive optical signals, amplified and sent to an analog speaker.<br/><img src='/images/optical_audio_transmission_teaser.png'>"
+excerpt: "Using LEDs to transmit and receive optical signals, amplified and sent to an analog speaker.<br/><img style='width=50%' src='/images/optical_audio_transmission_teaser.png'><br/>"
 collection: portfolio
 ---
 

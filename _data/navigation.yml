@@ -18,5 +18,5 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "Aviation"
-    url: /aviation/
+    #- title: "Aviation"
+    #  url: /aviation/

@@ -9,14 +9,25 @@
 /* Define Avenir font */
 @font-face {
   font-family: 'Avenir';
-  src: url('https://webfonts.brand.ucsb.edu/webfont.min.css');
+  src: url('assets/fonts/ucsb/AvenirLTW04-35Light.eot'),
+       url('assets/fonts/ucsb/AvenirLTW04-35Light.woff2') format('woff2'),
+       url('assets/fonts/ucsb/AvenirLTW04-35Light.woff') format('woff'),
+       url('assets/fonts/ucsb/AvenirLTW04-35Light.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
 }
 
 /* Define Produkt font */
 @font-face {
   font-family: 'Produkt';
-  src: url('https://webfonts.brand.ucsb.edu/webfont.min.css');
+  src: url('assets/fonts/ucsb/Produkt-Black-Web.eot'),
+       url('assets/fonts/ucsb/Produkt-Black-Web.woff2') format('woff2'),
+       url('assets/fonts/ucsb/Produkt-Black-Web.woff') format('woff'),
+       url('assets/fonts/ucsb/Produkt-Black-Web.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
 }
+
 
 /* Typography */
 

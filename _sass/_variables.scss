@@ -6,6 +6,20 @@
    Typography
    ========================================================================== */
 
+/* Define Avenir font */
+@font-face {
+  font-family: 'Avenir';
+  src: url('https://webfonts.brand.ucsb.edu/webfont.min.css');
+}
+
+/* Define Produkt font */
+@font-face {
+  font-family: 'Produkt';
+  src: url('https://webfonts.brand.ucsb.edu/webfont.min.css');
+}
+
+/* Typography */
+
 $doc-font-size              : 16;
 
 /* paragraph indention */
@@ -13,24 +27,24 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
 /* system typefaces */
-$serif                      : Georgia, Times, serif;
-$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-$monospace                  : Monaco, Consolas, "Lucida Console", monospace;
+$serif                      : 'Avenir', serif;
+$sans-serif                 : 'Avenir', sans-serif;
+$monospace                  : 'Avenir', monospace;
 
 /* sans serif typefaces */
-$sans-serif-narrow          : $sans-serif;
-$helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
+$sans-serif-narrow          : 'Avenir', sans-serif;
+$helvetica                  : 'Avenir', sans-serif;
 
 /* serif typefaces */
-$georgia                    : Georgia, serif;
-$times                      : Times, serif;
-$bodoni                     : "Bodoni MT", serif;
-$calisto                    : "Calisto MT", serif;
-$garamond                   : Garamond, serif;
+$georgia                    : 'Avenir', serif;
+$times                      : 'Avenir', serif;
+$bodoni                     : 'Avenir', serif;
+$calisto                    : 'Avenir', serif;
+$garamond                   : 'Avenir', serif;
 
-$global-font-family         : $sans-serif;
-$header-font-family         : $sans-serif;
-$caption-font-family        : $serif;
+$global-font-family         : 'Avenir', sans-serif;
+$header-font-family         : 'Avenir', sans-serif;
+$caption-font-family        : 'Avenir', serif;
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px

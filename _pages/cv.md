@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Summer 2021 - Present: Graduate Student Researcher
+* Summer 2021 - Summer 2023: Graduate Student Researcher
   * University of California, Santa Barbara
   * Duties: physics analysis, data acquisition, software development
   * Experiments: CMS, MilliQan

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "🦑" # 🏔⛺🛩
 name                     : &name "Joe Crowley"
-description              : &description "Joe has a passion for nature, science, music, and travel. He is currently pursuing a PhD in Experimental Particle Physics at UC Santa Barbara advised by Claudio Campagnari."
+description              : &description "Joe has a passion for nature, science, music, and travel. He is currently pursuing a PhD in Experimental Particle Physics at UC Santa Barbara."
 url                      : "https://joseph-crowley.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "joseph-crowley/joseph-crowley.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Joe Crowley"
   avatar           : "profile.jpg"
-  bio              : "Joe has a passion for nature, science, music, and travel. He is currently pursuing a PhD in Experimental Particle Physics at UC Santa Barbara advised by Claudio Campagnari."
+  bio              : "Joe has a passion for nature, science, music, and travel. He is currently pursuing a PhD in Experimental Particle Physics at UC Santa Barbara."
   location         : "Santa Barbara"
   employer         : "UCSB"
   pubmed           : 

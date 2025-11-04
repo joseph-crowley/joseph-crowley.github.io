@@ -6,14 +6,17 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Home"
-title_separator          : "🦑" # 🏔⛺🛩
-name                     : &name "Joe Crowley"
-description              : &description "Joe has a passion for nature, science, music, and travel. He is currently pursuing a PhD in Experimental Particle Physics at UC Santa Barbara."
-#url                      : "https://joshhttps://crowley.is-a.devttphttps://crowley.is-a.devs://crowley.is-a.devephttps://crowley.is-a.devh-crowley.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+locale: "en-US"
+title: "Home"
+title_separator: "🦑"
+name: "Joe Crowley"
+description: "Joe has a passion for nature, science, music, and travel. He is currently pursuing a PhD in Experimental Particle Physics at UC Santa Barbara."
 
-url                      : "https://crowley.is-a.dev"baseurl                  : "" # the subpath of your site, e.g. "/blog"
+# base urls
+# leave url empty so both custom and default domains work
+url: ""
+baseurl: ""
+# optional: set url to "https://crowley.is-a.dev" to force canonical metadata while keeping baseurl empty
 repository               : "joseph-crowley/joseph-crowley.github.io"
 teaser                   : "campus_point_flowers.jpg" 
 breadcrumbs              : false # true, false (default)
@@ -130,10 +133,13 @@ exclude:
   - .asset-cache
   - .bundle
   - .jekyll-assets-cache
+  - .jekyll-cache
+  - .DS_Store
   - .sass-cache
   - CHANGELOG
   - Capfile
   - Gemfile
+  - Gemfile.lock
   - Gruntfile.js
   - LICENSE
   - README
@@ -161,6 +167,13 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
+
+strict_front_matter: true
+
+liquid:
+  error_mode: warn
+  strict_variables: false
+  strict_filters: false
 
 
 # Markdown Processing
@@ -267,6 +280,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-seo-tag
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
@@ -274,6 +288,8 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-redirect-from
+  - jekyll-seo-tag
 
 
 # Archives
